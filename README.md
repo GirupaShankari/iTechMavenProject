@@ -43,10 +43,9 @@
 ### To configure your git account for the first time
 * git config --global user.name "your username"
 * git config --global user.email "your mail ID"
+### Connect to your github account
+* git remote add origin https://github.com/GirupaShankari/iTechMavenProject/
 ### Push your code into github repository
 * **git push -u origin master** or **git push -f origin master**
 ### Pull your code from github repository
 * **git pull origin master**
-### Connect to your github account
-* git remote add origin https://github.com/GirupaShankari/iTechMavenProject/
-
